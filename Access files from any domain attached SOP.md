@@ -1,6 +1,6 @@
 #
 ## **Access files from any domain attached SOP**
-## <u>*Purpose:*</u>
+## <u>Purpose</u>
 >  The purpose of this Standard Operating Procedure (SOP) is to ensure that users can access their files from any domain attached system in a secure and efficient manner. This SOP is aimed at improving productivity and flexibility for users while ensuring the security of organizational data.
 
 ## <u>Scope</u>
