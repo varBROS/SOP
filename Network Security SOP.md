@@ -1,6 +1,6 @@
 #
 ## **Network Security SOP**
-## <u>*Purpose:*</u>
+## <u>Purpose</u>
 >  The purpose of this SOP is to establish a consistent and efficient process for managing and maintaining the network security of the organization. 
 
 
