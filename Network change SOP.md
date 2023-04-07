@@ -1,6 +1,6 @@
 #
 ## **Network change SOP**
-## <u>*Purpose:*</u>
+## <u>Purpose</u>
 >  The purpose of this procedure is to establish a process for managing changes to the network while minimizing disruptions and downtime. This procedure ensures that all changes are managed in a consistent and controlled manner.
 
 ## <u>Scope</u>
