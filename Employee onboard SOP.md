@@ -1,5 +1,5 @@
 ## **Employee onboard SOP**
-## <u>*Purpose:*</u>
+## <u>Purpose</u>
 >  A Standard Operating Procedure (SOP) for onboarding new employees using Active Directory.
 ## <u>Scope</u>
 > Inform all relevant stakeholders, including IT personnel and HR, about the plan and any requirements for handling technology assets. 
