@@ -1,6 +1,6 @@
 #
 ## **Employee termination SOP**
-## <u>*Purpose:*</u>
+## <u>Purpose</u>
 >  The process for handling network account needs for employees who are terminated from the organization. All accounts associated with a terminated employee are properly disabled or deleted, protecting the security and integrity of the organization's network.
 ## <u>Scope</u>
 > This applies to all employees and departments within the organization who are involved in the termination of employees. 
