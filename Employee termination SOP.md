@@ -70,4 +70,4 @@ ________________________________________________________________
 > - Work Instructions - In-depth, step-by-step directions for a specific task or set of tasks.
 
 ## <u>Revision History</u> 
->4/3/2023 – “SOP_Template.md” created by varBROs group
+>4/7/2023 – “SOP.md” created by Deontae Carter, Dericus Horner, Joshua Phipps, Justin Tabios and Marco Aliaga
