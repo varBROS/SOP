@@ -1,6 +1,6 @@
 #
 ## **Network Traffic SOP**
-## <u>*Purpose:*</u>
+## <u>Purpose</u>
 >  Is to establish a systematic and structured approach to network monitoring that helps ensure the security, performance, and availability of the organization's network, and allows for proactive detection and resolution of network issues.
 
 ## <u>Scope</u>
