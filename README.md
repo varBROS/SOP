@@ -13,3 +13,9 @@ ___
 | [Access files from any domain attached SOP](https://github.com/varBROS/SOP/blob/main/Access%20files%20from%20any%20domain%20attached%20SOP.md) | Standard Operating Procedure for accessing files from any attached domain |
 
 *Each SOP was written by each individual group member of varBROS.*
+
+- Deontae Carter
+- Dericus Horner
+- Joshua Phipps
+- Justin Tabios
+- Marco Aliaga
