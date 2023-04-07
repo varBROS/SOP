@@ -1,7 +1,7 @@
 # SOP
 varBROS consists of a well developed team with a variety of skill sets from different backgrounds
 ___
-#Table of Content
+# Table of Content
 | File | Description |
 | --- | --- |
 | [OS management SOP](https://github.com/varBROS/SOP/blob/main/OS%20management%20SOP.md) | Standard Operating Procedure for managing Operating Systems |
