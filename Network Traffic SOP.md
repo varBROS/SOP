@@ -34,4 +34,4 @@ Definitions](https://www.rapid7.com/fundamentals/network-traffic-analysis/#:~:te
 > Wireshark- is a network protocol analyzer, or an application that captures data packets from a network connection, such as from your computer to your home office or the internet.
 
 ## <u>Revision History</u> 
->4/3/2023 – “SOP_Template.md” created by varBROs group
+>4/7/2023 – “SOP.md” created by Deontae Carter, Dericus Horner, Joshua Phipps, Justin Tabios and Marco Aliaga
