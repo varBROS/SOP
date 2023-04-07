@@ -1,6 +1,6 @@
 #
 ## **OS managment SOP**
-## <u>*Purpose:*</u>
+## <u>Purpose</u>
 >  The purpose of this SOP is to establish a consistent and efficient process for managing operating system (OS) version control, ensuring that all systems within the organization are up to date, secure, and properly maintained.
 
 ## <u>Scope</u>
